@@ -1,4 +1,4 @@
-#Github问题集一
+# Github问题集一
 1. GitHub是一个面向开源及及私有软件项目的托管平台
 2. Git是一个开源的分布式版本控制系统，用以高效、高速的处理各种规模的项目版本管理
 3. 跟大牛学习 开源 找前沿技术 上手快可用性好
@@ -13,7 +13,7 @@
 12. fork 拷贝
 13. watch 设置接受邮件提醒
 14. 搜索结果的类别 仓库 code commits
-#GitHub问题集二  
+# GitHub问题集二  
 1. 新建仓库  引用仓库 新建代码片段 建立组织 
 2. setting -> source ->master branch
 3. setting -> delete this repository
@@ -40,7 +40,7 @@
 23. 提交
 24. github上的库拉下来
 25. 把本地库推到GitHub上去
-#Markdown
+# Markdown
 1. 标记语言
 2. 语法简洁，容易学习  
    专注于文字内容 兼容所有的文本编辑器  
